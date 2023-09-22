@@ -1,6 +1,7 @@
 # -Machine_Learning
 Machine Learning Project - Car Sales Predictions - Regression Models(Python)
 
+
 We have a dataset that contains prices for 205 car models. The dataset contains 25 columns. The last column contains the price of the model which is the target value. The rest 24 columns represent other numerical and categorical features. 
 
 We have conducted a regression analysis using Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest and Multilayer Perceptron.
