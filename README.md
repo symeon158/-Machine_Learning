@@ -48,5 +48,5 @@ For comprehensive analysis, graphs comparing models, methods, and thorough insig
 - **Technologies & Libraries Used**: (Add technologies and libraries used, e.g., Scikit-learn, Pandas, Numpy, etc.)
 - **Demonstrated Skills**: In-depth analysis using multiple regression models, effective application of data engineering techniques, and insightful evaluation and discussion of model performance.
 
-**Note**: Ensure to replace "Your_HTML_Link_Here" and "Your_IPYNB_Link_Here" with the actual links to your project files.
+
 
