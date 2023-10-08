@@ -45,8 +45,35 @@ For comprehensive analysis, graphs comparing models, methods, and thorough insig
 
 ### Notes for GitHub Users
 - **Key Learnings**: Proficiency in implementing various regression models, applying data engineering techniques, and evaluating models using multiple metrics.
-- **Technologies & Libraries Used**: (Add technologies and libraries used, e.g., Scikit-learn, Pandas, Numpy, etc.)
 - **Demonstrated Skills**: In-depth analysis using multiple regression models, effective application of data engineering techniques, and insightful evaluation and discussion of model performance.
+
+### Technologies & Libraries Used
+
+1. **Pandas**: A powerful data manipulation and analysis library.
+2. **NumPy**: A library for numerical operations and handling arrays in Python.
+3. **Matplotlib**: A comprehensive library for creating static, interactive, and animated visualizations in Python.
+   - `pyplot`: A module to provide a MATLAB-like interface for making plots and charts.
+4. **Seaborn**: A statistical data visualization library based on Matplotlib.
+5. **Scikit-Learn (sklearn)**: A machine learning library that provides simple and efficient tools for data analysis and modeling.
+   - `decomposition`
+     - `PCA`: Principal Component Analysis module.
+   - `preprocessing`
+     - `StandardScaler`: A module for standardizing dataset.
+   - `model_selection`
+     - `train_test_split`: A module for splitting data into training and testing sets.
+   - `linear_model`
+     - `LinearRegression`: A module for linear regression modeling.
+     - `Ridge`: A module for ridge regression modeling.
+     - `Lasso`: A module for lasso regression modeling.
+   - `tree`
+     - `DecisionTreeRegressor`: A module for regression through decision trees.
+   - `ensemble`
+     - `RandomForestRegressor`: A module for random forest regression modeling.
+   - `neural_network`
+     - `MLPRegressor`: A module for regression using multi-layer Perceptrons.
+   - `metrics`
+     - `mean_squared_error`: A module for calculating the mean squared error.
+     - `mean_absolute_error`: A module for calculating the mean absolute error.
 
 
 
